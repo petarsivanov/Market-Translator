@@ -1,0 +1,9 @@
+c:\users\pc-13\documents\visual studio 2015\Projects\Translator\Translator\bin\Debug\Translator.exe.config
+C:\Users\PC-13\Documents\Visual Studio 2015\Projects\Translator\Translator\bin\Debug\Translator.exe
+C:\Users\PC-13\Documents\Visual Studio 2015\Projects\Translator\Translator\bin\Debug\Translator.pdb
+C:\Users\PC-13\Documents\Visual Studio 2015\Projects\Translator\Translator\obj\Debug\Translator.csprojResolveAssemblyReference.cache
+C:\Users\PC-13\Documents\Visual Studio 2015\Projects\Translator\Translator\obj\Debug\Translator.Form1.resources
+C:\Users\PC-13\Documents\Visual Studio 2015\Projects\Translator\Translator\obj\Debug\Translator.Properties.Resources.resources
+C:\Users\PC-13\Documents\Visual Studio 2015\Projects\Translator\Translator\obj\Debug\Translator.csproj.GenerateResource.Cache
+C:\Users\PC-13\Documents\Visual Studio 2015\Projects\Translator\Translator\obj\Debug\Translator.exe
+C:\Users\PC-13\Documents\Visual Studio 2015\Projects\Translator\Translator\obj\Debug\Translator.pdb
